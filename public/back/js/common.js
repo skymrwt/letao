@@ -75,9 +75,9 @@ $(function () {
   })
   
   // a标签高亮
-  var $as = $(".management ul a")
-  
-    $as.on("click",function () {
-      $(this).addClass("active").parent().siblings().children().removeClass("active")
-    })
+  //var $as = $(".management ul a")
+  //
+  //  $as.on("click",function () {
+  //    $(this).addClass("active").parent().siblings().children().removeClass("active")
+  //  })
     })
