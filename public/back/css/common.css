@@ -88,6 +88,21 @@ a:link,a:visited,a:hover,a:active{
   border-radius: 50%;
 }
 
+.main .navigation{
+  margin-top: 20px;
+}
+.main .navigation ol{
+  background-color: #f5f5f5;
+}
+
+.main .navigation ol li.one a{
+  color: #337ab7;
+}
+.main .navigation ol li.other a{
+  color: #777;
+}
+
+
 .management ul{
   width: 100%;
   
