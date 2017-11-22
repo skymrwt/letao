@@ -150,4 +150,17 @@ a:link,a:visited,a:hover,a:active{
   line-height: 50px;
 }
 
+table.table.table-bordered th,table.table.table-bordered td{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.paginator_box{
+  text-align: right;
+}
+
+.mb_20{
+  margin-bottom: 20px;
+}
+
 
