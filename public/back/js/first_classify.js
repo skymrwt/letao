@@ -79,7 +79,7 @@ $(function () {
                     $("#firstModal").modal("hide");
                     $("form").data("bootstrapValidator").resetForm();
                     $("form")[0].reset();
-                    console.log(2);
+                    currentPage = 1
                     render();
                 }
             }
